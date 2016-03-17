@@ -1,0 +1,7 @@
+IDETalk
+Atlassian Connector for IntelliJ IDE
+mobi.hsz.idea.gitignore
+BashSupport
+IntelliJOptimizer
+JRebelPlugin
+com.intellij.plugins.html.instantEditing
